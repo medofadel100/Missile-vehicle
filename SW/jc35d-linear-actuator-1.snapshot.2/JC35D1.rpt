@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : JC35D1.SLDASM
+Receiving System Product I.D.: JC35D1.SLDASM
+File Name                    : C:\Users\AMR\Desktop\JC35D1.IGS
+Sending System               : SolidWorks 2019
+Preprocessor Version         : SolidWorks 2019
+File Creation Date           : 200515.143027
+Model Creation Date          : 200515.143027
+Units                        : MM
+Model Space Scale            : 1
+Author                       : AMR
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                           1577      1577
+102  Composite curve                               1586      1586
+110  Line                                          2035      2035
+120  Surface of revolution                          275       275
+124  Transformation matrix                         1390      1390
+126  Rational B-spline curve                       3547      3547
+128  Rational B-spline surface                      424       424
+142  Curve on a parametric surface                  793       793
+144  Trimmed parametric surface                     699       699
+308  Subfigure definition                             3         3
+314  Color definition                               646       646
+408  Singular subfigure instance                      3         3
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       0
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, July 05, 2021 14:14:58
+Finish time: Monday, July 05, 2021 14:14:59
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
